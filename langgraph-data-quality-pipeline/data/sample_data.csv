@@ -1,0 +1,9 @@
+customer_id,age,email,monthly_spend,city
+1001,28,alex@example.com,120.50,Hyderabad
+1002,35,sam@example.com,250.00,Bengaluru
+1003,42,riya@example.com,180.25,Chennai
+1004,150,invalid-email,75.00,Hyderabad
+1005,31,dev@example.com,-15.00,Mumbai
+1005,31,dev@example.com,-15.00,Mumbai
+1006,,lee@example.com,9999.00,Delhi
+1007,24, ,45.00,Pune
